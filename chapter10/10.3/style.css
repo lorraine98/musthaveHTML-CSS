@@ -1,0 +1,50 @@
+/* 예제 10-11 */
+div {
+  width: 200px;
+  height: 200px;
+  background-color: tomato;
+  position: static;
+}
+#second {
+  background-color: teal;
+}
+
+/* 예제 10-12 */
+body {
+  height: 1000vh;
+}
+div {
+  width: 200px;
+  height: 200px;
+  background-color: tomato;
+  position: static;
+}
+#second {
+  background-color: teal;
+  position: fixed;
+}
+
+/* 예제 10-13 */
+div {
+  width: 200px;
+  height: 200px;
+  background-color: tomato;
+}
+#second {
+  background-color: teal;
+  position: relative;
+  top: 10px;
+}
+
+/* 예제 10-14 */
+div {
+  width: 200px;
+  height: 200px;
+  background-color: tomato;
+}
+#second {
+  background-color: teal;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}

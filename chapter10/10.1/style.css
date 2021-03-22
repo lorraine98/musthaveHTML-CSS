@@ -1,0 +1,108 @@
+/* 예제 10-1 */
+div {
+  width: 200px;
+  height: 200px;
+  background-color: tomato;
+}
+#second {
+  background-color: seagreen;
+}
+
+/* 예제 10-2 */
+body {
+  display: flex;
+}
+div {
+  width: 200px;
+  height: 200px;
+  background-color: tomato;
+}
+#second {
+  background-color: seagreen;
+}
+
+/* 예제 10-3 */
+body {
+  display: flex;
+  justify-content: center;
+}
+div {
+  width: 200px;
+  height: 200px;
+  background-color: tomato;
+}
+#second {
+  background-color: seagreen;
+}
+
+/* 예제 10-4 */
+body {
+  display: flex;
+  justify-content: space-between;
+}
+div {
+  width: 200px;
+  height: 200px;
+  background-color: tomato;
+}
+#second {
+  background-color: seagreen;
+}
+
+/* 예제 10-5 */
+body {
+  display: flex;
+  align-items: center;
+}
+div {
+  width: 200px;
+  height: 200px;
+  background-color: tomato;
+}
+#second {
+  background-color: seagreen;
+}
+
+/* 예제 10-6 */
+body {
+  display: flex;
+  align-items: stretch;
+}
+div {
+  height: 200px;
+  width: 200px;
+  background-color: tomato;
+}
+#second {
+  background-color: seagreen;
+}
+
+/* 예제 10-7 */
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+div {
+  width: 200px;
+  height: 200px;
+  background-color: tomato;
+}
+#second {
+  background-color: seagreen;
+}
+
+/* 예제 10-8 */
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+div {
+  width: 200px;
+  height: 200px;
+  background-color: tomato;
+}
+#second {
+  background-color: seagreen;
+}

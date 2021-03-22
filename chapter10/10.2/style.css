@@ -1,0 +1,28 @@
+/* 예제 10-9 */
+body {
+  display: flex;
+}
+div {
+  width: 200px;
+  height: 200px;
+  background-color: tomato;
+}
+#second {
+  background-color: seagreen;
+}
+
+/* 예제 10-10 */
+body {
+  display: flex;
+}
+div {
+  width: 200px;
+  height: 200px;
+  background-color: tomato;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#second {
+  background-color: seagreen;
+}
