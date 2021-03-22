@@ -3,22 +3,26 @@ h1,
 span {
   border: 3px solid red;
 }
+
 /* 예제 9-3 */
 h1,
 span {
   border: 3px solid red;
   display: inline;
 }
+
 /* 예제 9-4 */
 h1,
 span {
   border: 3px solid red;
   display: block;
 }
+
 /* 예제 9-5 */
 h1 {
   border-bottom: 1px solid black;
 }
+
 /* 예제 9-6 */
 h1 {
   border-bottom: 1px solid black;
@@ -27,6 +31,7 @@ h1 {
 span {
   padding: 5px;
 }
+
 /* 예제 9-7 */
 body {
   background-color: pink;
@@ -38,6 +43,7 @@ h1 {
 span {
   padding: 5px;
 }
+
 /* 예제 9-8 */
 @media (max-width: 1280px) {
   body {
