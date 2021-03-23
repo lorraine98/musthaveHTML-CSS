@@ -1,0 +1,44 @@
+/*html과 body 전체 높이를 화면 너비에 맞춤*/
+html,
+body {
+  height: 100%;
+}
+/*전체 박스를 가운데로 배치*/
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/*헤더 태그 스타일링*/
+header {
+  width: 310px;
+  height: 50px;
+  background-color: #581845;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+/*아티클 태그 스타일링*/
+article {
+  display: flex;
+}
+.article-left {
+  width: 100px;
+  height: 200px;
+  background-color: #c70039;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+.article-right {
+  width: 200px;
+  height: 200px;
+  background-color: #ffc300;
+  border-radius: 10px;
+}
+/*푸터 태그 스타일링*/
+footer {
+  width: 310px;
+  height: 50px;
+  background-color: #900c3f;
+  border-radius: 10px;
+  margin-top: 10px;
+}
