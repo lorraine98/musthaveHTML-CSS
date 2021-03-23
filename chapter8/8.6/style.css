@@ -1,4 +1,3 @@
-/* div 후손 요소 중 p 요소 */
-div p {
+* {
   color: red;
 }

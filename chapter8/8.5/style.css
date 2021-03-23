@@ -1,6 +1,7 @@
-.myclass1 {
-  color: red;
+h1 {
+  font-size: 100px; /*글자 크기를 100px로 지정*/
+  text-align: center; /*글자 정렬을 가운데로 지정*/
 }
-.myclass2 {
-  background-color: cadetblue;
+p {
+  text-align: center;
 }
