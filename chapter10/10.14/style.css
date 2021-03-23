@@ -4,5 +4,8 @@ div {
   background-color: tomato;
 }
 #second {
-  background-color: seagreen;
+  background-color: teal;
+  position: absolute;
+  top: 50px;
+  left: 50px;
 }

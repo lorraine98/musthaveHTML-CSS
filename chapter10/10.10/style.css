@@ -1,11 +1,13 @@
 body {
   display: flex;
-  justify-content: center;
 }
 div {
   width: 200px;
   height: 200px;
   background-color: tomato;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 #second {
   background-color: seagreen;
