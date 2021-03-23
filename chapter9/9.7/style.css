@@ -1,0 +1,10 @@
+body {
+  background-color: pink;
+}
+h1 {
+  border-bottom: 1px solid black;
+  padding: 10px;
+}
+span {
+  padding: 5px;
+}
