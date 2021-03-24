@@ -1,9 +1,13 @@
+html,
+body {
+  height: 100%;
+}
 body {
   display: flex;
   align-items: stretch;
 }
 div {
-  height: 200px;
+  height: 800px;
   width: 200px;
   background-color: tomato;
 }
