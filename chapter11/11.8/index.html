@@ -1,0 +1,24 @@
+<style>
+  /* 홀수 문단 */
+  p:nth-of-type(2n + 1) {
+    color: red;
+  }
+  /* 짝수 문단 */
+  p:nth-of-type(2n) {
+    color: blue;
+  }
+  /* 첫 번째 문단 */
+  p:nth-of-type(1) {
+    font-style: italic;
+  }
+</style>
+
+<body>
+  <div>
+    <div>여기는 카운트 세는 곳 아님!</div>
+    <p>첫 번째 p 태그</p>
+    <p>두 번째 p 태그</p>
+    <div>여기는 카운트 세는 곳 아님!</div>
+    <p>세 번째 p 태그</p>
+  </div>
+</body>
