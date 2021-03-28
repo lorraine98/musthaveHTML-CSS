@@ -4,6 +4,7 @@
 
 @import "./reset.css";
 @import "./variable.css";
+@import "./nevigation-bar.css";
 
 * {
   box-sizing: border-box;

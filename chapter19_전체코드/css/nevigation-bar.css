@@ -1,0 +1,18 @@
+.navigation-bar {
+  background-color: rgba(255, 255, 255, 0.5);
+  width: 8rem;
+  height: 3rem;
+  border-radius: 0 10px 0 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+}
+.navigation-bar span {
+  color: black;
+  font-size: 2rem;
+}
+.find-icon-clicked {
+  font-weight: 600;
+}
