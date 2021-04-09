@@ -4,10 +4,9 @@ body {
 }
 body {
   display: flex;
-  align-items: stretch;
+  justify-content: stretch;
 }
 div {
-  height: 800px;
   width: 200px;
   background-color: tomato;
 }
