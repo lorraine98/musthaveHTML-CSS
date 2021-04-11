@@ -1,6 +1,5 @@
-![myprofile-helloworld](https://user-images.githubusercontent.com/61550839/114302532-73359d00-9b04-11eb-8f88-05122c62c0af.jpg)
-
 # musthaveHTML-CSS
+![myprofile-helloworld](https://user-images.githubusercontent.com/61550839/114302532-73359d00-9b04-11eb-8f88-05122c62c0af.jpg)
 비전공자를 위한 첫 코딩 챌린지 깃허브 소스 입니다. 
 
 <이 책은>
