@@ -17,18 +17,18 @@ header {
   border-radius: 10px;
   margin-bottom: 10px;
 }
-/*아티클 태그 스타일링*/
-article {
+/*메인 태그 스타일링*/
+main {
   display: flex;
 }
-.article-left {
+nav {
   width: 100px;
   height: 200px;
   background-color: #c70039;
   border-radius: 10px;
   margin-right: 10px;
 }
-.article-right {
+article {
   width: 200px;
   height: 200px;
   background-color: #ffc300;
