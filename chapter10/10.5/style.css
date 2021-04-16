@@ -1,17 +1,10 @@
-html,
-body {
-  height: 100%;
-}
-
-body {
-  display: flex;
-  align-items: center;
-}
 div {
   width: 200px;
   height: 200px;
   background-color: tomato;
 }
 #second {
-  background-color: seagreen;
+  background-color: teal;
+  position: relative;
+  top: 10px;
 }

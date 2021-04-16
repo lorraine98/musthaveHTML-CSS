@@ -1,15 +1,11 @@
-html,
-body {
-  height: 100%;
-}
-body {
-  display: flex;
-  justify-content: stretch;
-}
 div {
   width: 200px;
+  height: 200px;
   background-color: tomato;
 }
 #second {
-  background-color: seagreen;
+  background-color: teal;
+  position: absolute;
+  top: 50px;
+  left: 50px;
 }

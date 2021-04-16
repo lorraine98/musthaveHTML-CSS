@@ -1,3 +1,5 @@
-h1 {
-  font-size: 100px;
+h1,
+span {
+  border: 3px solid red;
+  display: block;
 }

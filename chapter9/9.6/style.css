@@ -1,0 +1,15 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  display: flex;
+  justify-content: stretch;
+}
+div {
+  width: 200px;
+  background-color: tomato;
+}
+#second {
+  background-color: seagreen;
+}

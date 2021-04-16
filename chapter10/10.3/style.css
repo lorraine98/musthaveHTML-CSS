@@ -1,12 +1,9 @@
-body {
-  display: flex;
-  justify-content: center;
-}
 div {
   width: 200px;
   height: 200px;
   background-color: tomato;
+  position: static;
 }
 #second {
-  background-color: seagreen;
+  background-color: teal;
 }

@@ -1,4 +1,10 @@
-/* id값이 p1인 요소를 선택 */
-#p1 {
-  color: red;
+@media (max-width: 1280px) {
+  body {
+    background-color: pink;
+  }
+}
+@media (max-width: 600px) {
+  body {
+    background-color: olive;
+  }
 }
