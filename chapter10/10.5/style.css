@@ -1,10 +1,12 @@
-div {
-  width: 200px;
-  height: 200px;
-  background-color: tomato;
+.up {
+  background-color: indigo;
+  width: 100px;
+  height: 100px;
 }
-#second {
-  background-color: teal;
+.down {
+  background-color: deeppink;
+  width: 100px;
+  height: 100px;
   position: relative;
-  top: 10px;
+  top: 20px;
 }

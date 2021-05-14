@@ -1,13 +1,20 @@
-#first {
+.grandparent {
+  background-color: aqua;
   width: 200px;
   height: 200px;
-  background-color: tomato;
   position: relative;
 }
-#second {
+.parent {
+  background-color: blueviolet;
+  width: 150px;
+  height: 150px;
+  position: relative;
+  top: 20px;
+}
+.child {
+  background-color: chartreuse;
   width: 50px;
   height: 50px;
-  background-color: teal;
-  right: 50px;
   position: absolute;
+  top: 20px;
 }
