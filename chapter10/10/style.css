@@ -1,5 +1,5 @@
 .up {
-  background-color: darkgoldenrod;
+  background-color: indigo;
   width: 100px;
   height: 100px;
 }
@@ -7,4 +7,6 @@
   background-color: deeppink;
   width: 100px;
   height: 100px;
+  position: absolute;
+  top: 20px;
 }

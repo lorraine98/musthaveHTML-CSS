@@ -1,19 +1,12 @@
-.grandparent {
-  background-color: aqua;
-  width: 200px;
-  height: 200px;
+.up {
+  background-color: indigo;
+  width: 100px;
+  height: 100px;
 }
-.parent {
-  background-color: blueviolet;
-  width: 150px;
-  height: 150px;
-  position: relative;
-  top: 20px;
-}
-.child {
-  background-color: chartreuse;
-  width: 50px;
-  height: 50px;
+.down {
+  background-color: deeppink;
+  width: 100px;
+  height: 100px;
   position: relative;
   top: 20px;
 }

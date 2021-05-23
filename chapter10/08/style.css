@@ -2,7 +2,6 @@
   background-color: aqua;
   width: 200px;
   height: 200px;
-  position: relative;
 }
 .parent {
   background-color: blueviolet;
@@ -15,6 +14,6 @@
   background-color: chartreuse;
   width: 50px;
   height: 50px;
-  position: absolute;
+  position: relative;
   top: 20px;
 }
