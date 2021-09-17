@@ -32,8 +32,9 @@
 <p>
 ・ 난이도 : 입문, 초급
    </td>
+ <p>
    <td><strong>구매처</strong>
-<p>
+
 ・ <a href="https://goldenrabbit.co.kr/product/must-have-%eb%b9%84%ec%a0%84%ea%b3%b5%ec%9e%90%eb%a5%bc-%ec%9c%84%ed%95%9c-%ec%b2%ab-%ec%bd%94%eb%94%a9-%ec%b1%8c%eb%a6%b0%ec%a7%80-with-html-css/​">골든래빗</a> 
 <p>
 ・ <a href="https://bit.ly/3vUUhzv​">교보문고</a> 
